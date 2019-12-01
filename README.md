@@ -1,5 +1,6 @@
 ![RSS-Bridge](static/logo_600px.png)
 ===
+(below instructions written my profucius to remind myself how this works)
 
 **HOW THIS WORKS** 
 
